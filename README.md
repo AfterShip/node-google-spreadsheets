@@ -11,7 +11,7 @@ npm install @aftership/google-spreadsheets
 ## Quick Example
 
 ```js
-	var GoogleSpreadsheets = require("google-spreadsheets");
+	var GoogleSpreadsheets = require("@aftership/google-spreadsheets");
 
 	// OPTIONAL: if you want to perform authenticated requests.
 	// You must install this dependency yourself if you need it.
@@ -118,14 +118,3 @@ You may discover that a particular public spreadsheet you're trying to anonymous
 ## License
 
 node-google-spreadsheets is free and unencumbered public domain software. For more information, see the accompanying [UNLICENSE](UNLICENSE) file.
-
-[badge-travis-img]: https://img.shields.io/travis/samcday/node-google-spreadsheets.svg?style=flat-square
-[badge-travis-url]: https://travis-ci.org/samcday/node-google-spreadsheets
-[badge-david-img]: https://img.shields.io/david/samcday/node-google-spreadsheets.svg?style=flat-square
-[badge-david-url]: https://david-dm.org/samcday/node-google-spreadsheets
-[badge-npm-img]: https://nodei.co/npm/google-spreadsheets.png?downloads=true&downloadRank=true&stars=true
-[badge-npm-url]: https://www.npmjs.org/package/google-spreadsheets
-[badge-climate-img]: https://img.shields.io/codeclimate/github/samcday/node-google-spreadsheets.svg?style=flat-square
-[badge-climate-url]: https://codeclimate.com/github/samcday/node-google-spreadsheets
-[badge-coverage-img]: https://img.shields.io/codeclimate/coverage/github/samcday/node-google-spreadsheets.svg?style=flat-square
-[badge-coverage-url]: https://codeclimate.com/github/samcday/node-google-spreadsheets
