@@ -2,12 +2,12 @@
   "author": "Sam <me@samcday.com.au> (http://samcday.com.au/)",
   "name": "@aftership/google-spreadsheets",
   "description": "Google Spreadsheet Data API for Node.js",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "license": "Unlicense",
-  "homepage": "https://github.com/samcday/node-google-spreadsheets",
+  "homepage": "https://github.com/AfterShip/node-google-spreadsheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/samcday/node-google-spreadsheets.git"
+    "url": "git://github.com/AfterShip/node-google-spreadsheets.git"
   },
   "main": "lib/spreadsheets.js",
   "engines": {
