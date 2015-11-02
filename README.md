@@ -1,15 +1,12 @@
 # google-spreadsheets
 
-[![Build Status][badge-travis-img]][badge-travis-url]
-[![Dependency Information][badge-david-img]][badge-david-url]
-[![Code Climate][badge-climate-img]][badge-climate-url]
-[![Test Coverage][badge-coverage-img]][badge-coverage-url]
-
 A simple Node.js library to read data from a Google Spreadsheet.
 
 ## Installation
 
-[![NPM Info][badge-npm-img]][badge-npm-url]
+```
+npm install @aftership/google-spreadsheets
+```
 
 ## Quick Example
 
