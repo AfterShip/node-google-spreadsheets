@@ -1,6 +1,6 @@
 {
   "author": "Sam <me@samcday.com.au> (http://samcday.com.au/)",
-  "name": "google-spreadsheets",
+  "name": "@aftership/google-spreadsheets",
   "description": "Google Spreadsheet Data API for Node.js",
   "version": "0.4.1",
   "license": "Unlicense",
